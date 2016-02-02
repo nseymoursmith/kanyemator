@@ -19,32 +19,19 @@ for (n, txtfile) in enumerate(filelist):
             tags = []
             for leaf in subtree.leaves():
                 tags.append(nltk.tag.str2tuple(leaf)[1])
-            if tags == ["WDT"] or tags == ["PRP"]:
-                pass
-            else:
-                if subtree not in np_set:
-                    np_set.append((str(subtree), tags))
+            if subtree not in np_set:
+                np_set.append((str(subtree), tags))
     subs_dict = {}
     for np in np_set:
         matches = []
         for obj in np_collection:
-            # if obj != np[0]:
-            #     tree = nltk.Tree.fromstring(obj)
-            #     tags = []
-            #     for leaf in tree.leaves():
-            #         tags.append(nltk.tag.str2tuple(leaf)[1])
-            #     if tags == np[1]:
-            #         matches.append(obj)
             tree = nltk.Tree.fromstring(obj)
             tags = []
             for leaf in tree.leaves():
                 tags.append(nltk.tag.str2tuple(leaf)[1])
             if tags == np[1]:
                 matches.append(obj)
-        if len(matches) > 1:
-            subs = random.choice(matches)
-        else:
-            subs = np[0]
+        subs = random.choice(matches)
         subs_dict[np[0]] = subs
     context_str = str(context).split("\n")
     replaced = []
