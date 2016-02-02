@@ -1,83 +1,134 @@
 (S
-  \ufeffThe/NN
-  clip/NN
-  features/VBZ
-  close-up/JJ
+  The/DT
+  video/NN
+  begins/VBZ
+  with/IN
+  surveillance/NN
+  camera/NN
   footage/NN
   of/IN
-  (GPE Cyrus/NNP)
-  emotionally/RB
-  singing/VBG
-  to/TO
-  the/DT
-  camera/NN
-  against/IN
-  a/DT
-  white/JJ
-  backdrop/NN
-  ,/,
-  having/VBG
-  been/VBN
-  inspired/VBN
-  by/IN
-  the/DT
-  music/NN
-  video/NN
-  for/IN
-  ``/``
-  Nothing/NNP
-  Compares/VBZ
-  2/CD
-  U/NN
-  ''/''
-  by/IN
-  (PERSON Sinead/NNP)
-  O'Connor/NNP
-  ./.
-  Interspersed/VBN
-  throughout/IN
-  are/VBP
-  scenes/NNS
-  of/IN
-  (GPE Cyrus/NNP)
-  licking/VBG
-  a/DT
-  sledgehammer/NN
+  (GPE Lopez/NNP)
   and/CC
-  swinging/VBG
-  on/IN
-  a/DT
-  wrecking/VBG
-  ball/NN
-  ./.
-  At/IN
-  first/JJ
-  ,/,
-  she/PRP
-  is/VBZ
-  shown/VBN
-  dressed/VBN
+  (PERSON Affleck/NNP)
   in/IN
-  a/DT
-  sleeveless/NN
-  shirt/NN
-  ,/,
-  panties/NNS
-  and/CC
-  (PERSON Doc/NNP Martens/NNP)
-  boots/NNS
-  ;/:
-  as/IN
-  the/DT
-  video/NN
-  progresses/VBZ
-  ,/,
-  she/PRP
+  their/PRP$
+  apartment/NN
+  ./.
+  (PERSON Lopez/NNP)
   is/VBZ
   then/RB
   shown/VBN
-  wearing/VBG
-  only/RB
+  dancing/NN
+  in/IN
   the/DT
-  boots/NNS
+  apartment/NN
+  to/TO
+  music/NN
+  on/IN
+  her/PRP$
+  Mp3/NNP
+  player/NN
+  ,/,
+  which/WDT
+  is/VBZ
+  captured/VBN
+  by/IN
+  the/DT
+  paparazzi/NN
+  ./.
+  She/PRP
+  is/VBZ
+  also/RB
+  seen/VBN
+  performing/VBG
+  the/DT
+  song/NN
+  (/(
+  clothed/VBN
+  in/IN
+  different/JJ
+  outfits/NNS
+  )/)
+  amid/IN
+  bright/JJ
+  lights/NNS
+  on/IN
+  the/DT
+  streets/NNS
+  of/IN
+  (GPE New/NNP York/NNP City/NNP)
+  with/IN
+  (PERSON Jadakiss/NNP)
+  and/CC
+  (PERSON Styles/NNP P./NNP Separate/NNP)
+  scenes/NNS
+  depict/VBP
+  (PERSON Lopez/NNP)
+  and/CC
+  (PERSON Affleck/NNP)
+  on/IN
+  a/DT
+  yacht/NN
+  ,/,
+  sun/NN
+  baking/NN
+  ,/,
+  and/CC
+  swimming/VBG
+  in/IN
+  the/DT
+  ocean/NN
+  ./.
+  Footage/NN
+  of/IN
+  the/DT
+  couple/NN
+  having/VBG
+  lunch/NN
+  at/IN
+  a/DT
+  restaurant/NN
+  and/CC
+  stopping/NN
+  at/IN
+  a/DT
+  gas/NN
+  station/NN
+  is/VBZ
+  also/RB
+  captured/VBN
+  by/IN
+  the/DT
+  paparazzi/NN
+  ./.
+  (PERSON Lopez/NNP)
+  later/RB
+  visits/VBZ
+  a/DT
+  jewelry/NN
+  store/NN
+  ,/,
+  and/CC
+  sings/NNS
+  ``/``
+  Loving/VBG
+  You/PRP
+  ''/''
+  in/IN
+  a/DT
+  recording/NN
+  studio/NN
+  ./.
+  Finally/RB
+  ,/,
+  the/DT
+  couple/NN
+  are/VBP
+  shown/VBN
+  spending/JJ
+  time/NN
+  together/RB
+  by/IN
+  a/DT
+  pool/NN
   ./.)

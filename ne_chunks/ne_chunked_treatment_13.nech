@@ -1,319 +1,294 @@
 (S
-  \ufeffThe/JJ
-  writer/NN
-  (PERSON Tao/NNP Lin/NNP)
-  wakes/VBZ
-  up/RP
-  in/IN
-  his/PRP$
-  (GPE Manhattan/NNP)
-  apartment/NN
-  ,/,
+  In/IN
   the/DT
-  setting/NN
-  of/IN
-  his/PRP$
-  novel/JJ
-  (GPE Taipei/NNP)
-  ./.
-  He/PRP
-  wakes/VBZ
-  up/RP
+  music/NN
+  video/NN
   ,/,
-  checks/VBZ
-  his/PRP$
-  emails/NNS
-  and/CC
-  his/PRP$
-  phone/NN
-  ,/,
-  then/RB
-  he/PRP
-  gets/VBZ
-  dressed/VBN
-  and/CC
-  leaves/NNS
-  ./.
-  Suddenly/RB
-  the/DT
-  quality/NN
-  of/IN
-  the/DT
-  picture/NN
-  drops/VBZ
-  -/:
-  (PERSON Tao/NN)
+  (PERSON Perry/NNP)
   is/VBZ
-  now/RB
-  walking/VBG
-  around/RP
-  (GPE New/NNP York/NNP City/NNP)
-  in/IN
-  grainy/NN
-  ,/,
-  webcam/JJ
-  footage/NN
-  ./.
-  The/DT
-  camera/NN
-  pans/VBZ
-  out/RP
-  ,/,
-  and/CC
-  we/PRP
-  see/VBP
-  that/IN
-  he/PRP
-  is/VBZ
-  being/VBG
-  watched/VBN
-  on/IN
   a/DT
-  computer/NN
-  screen/NN
+  game/NN
+  piece/NN
+  in/IN
+  (GPE Candyfornia/NNP)
+  ,/,
+  a/DT
+  game/NN
+  based/VBN
+  in/IN
+  poker/NN
+  and/CC
+  board/NN
+  games/NNS
   ./.
   The/DT
-  person/NN
-  watching/NN
+  settings/NNS
+  are/VBP
+  inspired/VBN
+  in/IN
+  part/NN
+  by/IN
+  (PERSON Alice/NNP)
+  's/POS
+  Adventures/NNS
+  in/IN
+  (GPE Wonderland/NNP)
+  ,/,
+  (PERSON Charlie/NNP)
+  and/CC
+  the/DT
+  (ORGANIZATION Chocolate/NNP Factory/NNP)
+  ,/,
+  and/CC
+  the/DT
+  board/NN
+  game/NN
+  (PERSON Candy/NNP Land/NNP)
+  ,/,
+  with/IN
+  much/JJ
+  of/IN
+  the/DT
+  set/NN
+  decorated/VBN
+  with/IN
+  cupcakes/NNS
+  ,/,
+  ice/NN
+  creams/NNS
+  ,/,
+  cotton/NN
+  candy/NN
+  ,/,
+  and/CC
+  lollipops/NNS
+  ./.
+  (PERSON Snoop/NNP Dogg/NNP)
+  appears/VBZ
+  in/IN
+  the/DT
+  video/NN
+  as/IN
+  a/DT
+  king/NN
+  named/VBN
+  ``/``
+  (PERSON Sugar/NNP Daddy/NNP)
+  ''/''
+  that/WDT
   is/VBZ
-  (PERSON Emmy/NNP)
+  holding/VBG
+  several/JJ
+  young/JJ
+  women/NNS
+  (/(
+  (ORGANIZATION Queens/NNP)
+  of/IN
+  (GPE Candyfornia/NNP)
+  )/)
+  captive/VBP
+  throughout/IN
+  the/DT
+  game/NN
+  ,/,
+  using/VBG
+  candy/NN
+  related/JJ
+  devices/NNS
+  to/TO
+  hold/VB
+  them/PRP
+  ./.
+  (PERSON Perry/NNP)
+  moves/VBZ
+  around/RB
+  ,/,
+  experimenting/VBG
+  with/IN
+  objects/NNS
   ./.
   She/PRP
-  is/VBZ
-  watching/VBG
-  from/IN
-  his/PRP$
-  apartment/NN
-  ,/,
-  but/CC
-  instead/RB
-  of/IN
+  moves/VBZ
+  through/IN
   the/DT
-  brightly/RB
-  lit/JJ
+  land/NN
   ,/,
-  simple/JJ
-  studio/NN
-  flat/JJ
-  that/IN
-  we/PRP
-  saw/VBD
-  before/IN
+  making/VBG
+  discoveries/NNS
+  and/CC
+  freeing/VBG
+  the/DT
+  women/NNS
+  ./.
+  In/IN
+  the/DT
+  chorus/NN
   ,/,
   she/PRP
-  is/VBZ
-  in/IN
+  appears/VBZ
+  lying/VBG
+  down/RP
+  on/IN
   a/DT
-  strange/JJ
+  cotton/NN
+  candy/NN
+  cloud/NN
   ,/,
-  dreamy/JJ
-  ,/,
-  neon/JJ
-  version/NN
+  naked/VBN
   ./.
-  She/PRP
-  is/VBZ
-  wearing/VBG
-  futuristic/JJ
-  clothes/NNS
-  ./.
-  (PERSON Emmy/NNP)
-  watches/VBZ
-  (PERSON Tao/NNP)
-  with/IN
-  great/JJ
-  care/NN
-  as/IN
-  he/PRP
-  goes/VBZ
-  about/IN
-  his/PRP$
-  day/NN
+  (PERSON Snoop/NNP Dogg/NNP)
+  tries/VBZ
+  to/TO
+  block/VB
+  her/PRP$
+  advances/NNS
   in/IN
-  (GPE New/NNP York/NNP)
-  ./.
-  She/PRP
-  laughs/VBZ
-  when/WRB
-  he/PRP
-  laughs/VBZ
-  ,/,
-  is/VBZ
-  angry/JJ
-  when/WRB
-  he/PRP
-  meets/VBZ
-  a/DT
-  girl/NN
+  many/JJ
+  ways/NNS
   ./.
   When/WRB
-  he/PRP
-  buys/VBZ
-  (PERSON Ambien/NNP)
-  at/IN
+  all/PDT
   the/DT
-  library/NN
-  ,/,
-  she/PRP
-  looks/VBZ
-  concerned/VBN
-  ./.
-  She/PRP
-  tidies/VBZ
-  his/PRP$
-  apartment/NN
-  ,/,
-  and/CC
-  tries/NNS
-  to/TO
-  get/VB
-  closer/JJR
-  to/TO
-  him/PRP
-  by/IN
-  touching/VBG
-  the/DT
-  screen/NN
-  ./.
-  Then/RB
-  events/NNS
-  in/IN
-  the/DT
-  room/NN
-  begin/NN
-  to/TO
-  mirror/VB
-  his/PRP$
-  actions/NNS
-  ./.
-  He/PRP
-  stops/VBZ
-  to/TO
-  look/VB
-  at/IN
-  some/DT
-  dogs/NNS
-  in/IN
-  a/DT
-  pet/NN
-  shop/NN
-  window/NN
-  ,/,
-  and/CC
-  suddenly/RB
-  there/EX
+  women/NNS
   are/VBP
-  four/CD
-  dogs/NNS
-  in/IN
-  the/DT
-  room/NN
-  with/IN
-  (PERSON Emmy/NNP)
-  ./.
-  He/PRP
-  finds/VBZ
-  a/DT
-  picture/NN
-  in/IN
-  the/DT
-  street/NN
+  free/JJ
   ,/,
-  and/CC
-  suddenly/RB
-  she/PRP
-  is/VBZ
-  putting/VBG
-  it/PRP
-  up/RP
+  (PERSON Perry/NNP)
+  leads/VBZ
+  them/PRP
+  in/IN
+  a/DT
+  dance/NN
   on/IN
   the/DT
-  wall/NN
+  beach/NN
   ./.
-  It/PRP
-  feels/VBZ
-  like/IN
-  she/PRP
-  is/VBZ
-  his/PRP$
-  stalker/NN
+  Seeing/VBG
+  the/DT
+  women/NNS
+  freed/VBD
   ,/,
-  but/CC
-  it/PRP
-  also/RB
-  feels/VBZ
-  like/IN
-  she/PRP
-  is/VBZ
-  existing/VBG
+  ``/``
+  (PERSON Sugar/NNP Daddy/NNP)
+  ''/''
+  becomes/VBZ
+  enraged/VBN
+  ,/,
+  marching/VBG
+  on/IN
+  the/DT
+  women/NNS
+  's/POS
+  position/NN
+  with/IN
+  an/DT
+  army/NN
+  of/IN
+  gummy/JJ
+  bears/NNS
+  ./.
+  (PERSON Perry/NNP)
+  ,/,
+  dressed/VBN
   in/IN
   a/DT
-  hyper/JJ
-  real/JJ
-  version/NN
-  of/IN
-  his/PRP$
-  life/NN
-  ./.
-  At/IN
-  the/DT
-  end/NN
-  of/IN
-  the/DT
-  video/NN
+  red/JJ
+  (PERSON Wonder/NNP Woman/NNP)
+  like/IN
+  costume/NN
   ,/,
-  (PERSON Tao/NNP)
-  returns/VBZ
+  quickly/RB
+  defeats/VBZ
+  the/DT
+  army/NN
+  with/IN
+  whip/JJ
+  cream/NN
+  guns/NNS
+  attached/VBD
   to/TO
-  the/DT
-  apartment/NN
+  her/PRP$
+  breasts/NNS
   ,/,
-  and/CC
-  leaves/VBZ
+  after/IN
+  which/WDT
   the/DT
-  lo/NN
-  fi/NN
-  webcam/JJ
-  footage/NN
+  stunned/JJ
+  king/NN
+  throws/VBZ
+  down/RP
+  his/PRP$
+  staff/NN
+  and/CC
+  surrenders/NNS
   ./.
   The/DT
-  apartment/NN
-  is/VBZ
-  the/DT
-  same/JJ
-  as/IN
-  when/WRB
-  he/PRP
-  left/VBD
-  it/PRP
-  ./.
-  (PERSON Emmy/NNP)
-  was/VBD
-  never/RB
-  there/RB
-  ,/,
-  he/PRP
-  imagined/VBD
-  her/PRP
-  ./.
-  This/DT
   video/NN
-  pays/VBZ
-  homage/NN
+  ends/VBZ
+  with/IN
+  ``/``
+  (PERSON Sugar/NNP Daddy/NNP)
+  ''/''
+  buried/VBD
+  up/RP
   to/TO
-  (PERSON Wong/NNP Kar/NNP Wai/NNP)
-  's/POS
-  Chungking/NNP
-  Express/NNP
+  his/PRP$
+  neck/NN
+  in/IN
+  the/DT
+  sand/NN
+  by/IN
+  the/DT
+  women/NNS
   ,/,
+  nonetheless/RB
+  admiring/VBG
+  their/PRP$
+  beauty/NN
   and/CC
+  (/(
+  in/IN
+  a/DT
+  nod/NN
   to/TO
   the/DT
-  (ORGANIZATION Weezer/NNP)
-  video/NN
-  for/IN
-  Undone/NN
-  :/:
+  (ORGANIZATION Beach/NNP Boys/NNP)
+  song/NN
+  )/)
+  wishing/NN
+  that/IN
+  women/NNS
+  everywhere/RB
+  could/MD
+  be/VB
+  (GPE California/NNP)
+  girls/NNS
+  ./.
+  (PERSON Various/NNP California/NNP)
+  landmarks/VBZ
+  appear/VBP
+  in/IN
   the/DT
-  (ORGANIZATION Sweater/NNP Song/NNP)
+  video/NN
+  ,/,
+  such/JJ
+  as/IN
+  the/DT
+  (ORGANIZATION Hollywood/NNP Walk/NNP)
+  of/IN
+  (GPE Fame/NNP)
+  ,/,
+  the/DT
+  (ORGANIZATION Hollywood/NNP Sign/NNP)
+  and/CC
+  some/DT
+  (LOCATION West/NNP Coast/NNP)
+  beaches/NNS
+  which/WDT
+  were/VBD
+  all/DT
+  made/VBN
+  out/IN
+  of/IN
+  confectionery/NN
   ./.)

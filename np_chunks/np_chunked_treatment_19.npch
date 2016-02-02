@@ -1,132 +1,163 @@
 (S
-  (NP \ufeffWarren/NNS G/NNP)
-  is/VBZ
-  driving/VBG
-  alone/RB
-  through/IN
-  (NP Eastside/NNP)
-  ,/,
-  (NP Long/NNP Beach/NNP)
-  ,/,
-  (NP California/NNP)
-  at/IN
-  (NP night/NN)
-  ,/,
-  looking/VBG
-  for/IN
-  (NP women/NNS)
+  (NP The/JJ video/NN)
+  begins/VBZ
+  when/WRB
+  (NP Lovato/NNP)
+  visits/VBZ
+  (NP a/DT carnival/NN)
   ./.
-  (NP He/PRP)
-  finds/VBZ
-  (NP a/DT group/NN)
+  (NP The/DT video/NN)
+  later/RB
+  follows/VBZ
+  (NP the/DT love/JJ story/NN)
   of/IN
-  (NP men/NNS)
-  playing/VBG
-  (NP dice/NN and/CC)
-  (NP tries/NNS)
-  to/TO
-  join/VB
-  (NP them/PRP)
-  ,/,
-  but/CC
-  (NP they/PRP)
-  pull/VBP
-  out/RP
-  (NP their/PRP$ guns/NNS)
+  (NP a/DT young/JJ American/JJ couple/NN)
+  (/(
+  portrayed/VBN
+  by/IN
+  (NP Dustin/NNP Milligan/NNP)
   and/CC
-  rob/VB
-  (NP him/PRP)
-  instead/RB
+  (NP Aimee/NNP Teegarden/NNP)
+  )/)
   ./.
-  Thinking/VBG
+  Initially/RB
+  ,/,
+  (NP the/DT video/NN)
+  shows/VBZ
+  (NP the/DT pair/NN)
+  throughout/IN
+  (NP their/PRP$ dating/JJ phase/NN)
+  ./.
+  (NP One/CD day/NN)
+  ,/,
+  (NP the/DT boy/NN)
+  must/MD
+  leave/VB
+  ,/,
+  and/CC
+  (NP it/PRP)
+  is/VBZ
+  revealed/VBN
   (NP he/PRP)
-  's/VBZ
-  (NP about/IN)
-  to/TO
-  die/VB
-  ,/,
-  (NP Warren/NNP G/NNP)
-  sings/VBZ
-  out/RP
-  ,/,
-  ``/``
-  if/IN
-  (NP I/PRP)
-  had/VBD
-  (NP wings/NNS)
-  (NP I/PRP)
-  would/MD
-  fly/VB
-  ''/''
-  ;/:
-  (NP one/CD critic/NN)
-  describes/VBZ
-  (NP this/DT moment/NN)
-  as/IN
-  ``/``
-  (NP the/DT hook/NN)
-  ''/''
-  of/IN
-  (NP the/DT song/NN)
-  ./.
-  Meanwhile/RB
-  ,/,
-  (NP Nate/NNP Dogg/NNP)
   is/VBZ
-  looking/VBG
-  for/IN
-  (NP Warren/NNP G./NNP)
-  (NP He/PRP)
-  passes/VBZ
-  (NP a/DT car/NN)
-  full/JJ
+  (NP a/DT soldier/NN)
+  being/VBG
+  deployed/VBN
+  in/IN
+  (NP the/DT middle/NN)
   of/IN
-  (NP women/NNS)
-  ,/,
-  (NP who/WP)
-  are/VBP
-  so/RB
-  fixated/VBN
-  on/IN
-  (NP him/PRP)
-  that/IN
-  (NP they/PRP)
-  crash/VBP
-  (NP their/PRP$ car/NN)
+  (NP the/DT war/NN)
   ./.
   (NP He/PRP)
-  finds/VBZ
-  (NP Warren/NNP G/NNP and/CC shoots/NNS)
-  at/IN
-  (NP the/DT robbers/NNS)
-  ,/,
-  dispersing/VBG
-  (NP them/PRP)
-  ./.
-  (NP The/DT two/CD friends/NNS)
-  then/RB
-  return/VBP
+  promises/VBZ
   to/TO
-  (NP the/DT women/NNS)
+  return/VB
+  ,/,
   and/CC
-  ride/VB
-  away/RB
+  meanwhile/RB
+  ,/,
+  (NP the/DT girl/NN)
+  is/VBZ
+  left/VBN
+  alone/RB
+  at/IN
+  (NP home/NN)
+  ./.
+  (NP The/DT two/CD attempt/NN)
+  to/TO
+  stay/VB
+  in/IN
+  (NP contact/NN)
+  by/IN
+  writing/VBG
+  (NP letters/NNS)
+  to/TO
+  (NP one/CD)
+  (NP another/DT)
+  ,/,
+  and/CC
+  (NP the/DT girl/NN)
+  anxiously/RB
+  awaits/VBZ
+  (NP his/PRP$ correspondence/NN)
+  ./.
+  (NP The/DT next/JJ scene/NN)
+  shows/VBZ
+  (NP a/DT flashback/NN)
+  to/TO
+  (NP the/DT carnival/NN)
+  from/IN
+  (NP the/DT beginning/NN)
+  of/IN
+  (NP the/DT video/NN)
+  ,/,
+  where/WRB
+  (NP the/DT girl/NN)
+  hangs/VBZ
+  out/RP
   with/IN
-  (NP them/PRP)
+  (NP her/PRP$ friends/NNS)
+  until/IN
+  (NP she/PRP)
+  sees/VBZ
+  (NP the/DT boy/NN)
+  for/IN
+  (NP the/DT first/JJ time/NN)
+  ,/,
+  working/VBG
+  at/IN
+  (NP the/DT carnival/NN)
+  and/CC
+  (NP the/DT boy/NN)
+  follows/VBZ
+  (NP her/PRP)
+  around/IN
+  (NP the/DT carnival/NN)
+  ./.
+  (NP The/DT climax/NN)
+  of/IN
+  (NP the/DT story/NN)
+  portrays/VBZ
+  (NP a/DT chaotic/JJ scene/NN)
+  with/IN
+  (NP the/DT boy/NN)
+  in/IN
+  (NP a/DT battlefield/NN)
+  ,/,
+  (NP shots/NNS)
+  ringing/VBG
+  (NP all/DT)
+  around/IN
+  (NP him/PRP)
+  ./.
+  Simultaneously/RB
+  ,/,
+  (NP the/DT girl/NN)
+  begins/VBZ
+  to/TO
+  shut/VB
+  (NP herself/PRP)
+  in/IN
+  (NP her/PRP$ room/NN)
+  ,/,
+  worried/VBD
+  about/IN
+  (NP her/PRP)
+  (NP boyfriend/NN)
+  ,/,
+  and/CC
+  (NP it/PRP)
+  seems/VBZ
+  as/IN
+  if/IN
+  (NP he/PRP)
+  will/MD
+  die/VB
   ./.
   In/IN
-  (NP the/DT third/JJ verse/NN)
+  (NP the/DT end/NN)
   ,/,
-  (NP Warren/NNP and/CC Nate/NNP)
-  explain/VBP
-  (NP their/PRP$ G-funk/JJ musical/JJ style/NN)
-  ;/:
-  (NP the/DT song/NN)
-  ``/``
-  constructs/VBZ
-  (NP itself/PRP)
-  as/IN
-  inaugurating/VBG
-  (NP a/DT new/JJ era/NN)
-  ''/''
+  (NP the/DT boy/NN returns/NNS and/CC reunites/NNS)
+  with/IN
+  (NP his/PRP$ girlfriend/NN)
   ./.)

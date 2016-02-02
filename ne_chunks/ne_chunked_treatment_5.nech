@@ -1,405 +1,306 @@
 (S
-  \ufeffIn/IN
+  The/DT
+  music/NN
+  video/NN
+  opens/VBZ
+  with/IN
+  black/JJ
+  and/CC
+  white/JJ
+  images/NNS
+  of/IN
+  locations/NNS
+  in/IN
+  (GPE New/NNP York/NNP)
+  being/VBG
+  shown/VBN
+  in/IN
+  the/DT
+  form/NN
+  of/IN
+  a/DT
+  slideshow/NN
+  ./.
+  The/DT
+  slideshow/NN
+  is/VBZ
+  then/RB
+  intercut/VBN
+  with/IN
+  a/DT
+  black/JJ
+  and/CC
+  white/JJ
+  clip/NN
+  of/IN
+  Jay-Z/NNP
+  ,/,
+  wearing/VBG
+  a/DT
+  (ORGANIZATION Yankees/JJ)
+  cap/NN
+  and/CC
+  a/DT
+  vest/NN
+  with/IN
+  no/DT
+  sleeves/NNS
+  ,/,
+  performing/VBG
+  the/DT
+  song/NN
+  on/IN
+  a/DT
+  street/NN
+  in/IN
+  front/NN
+  of/IN
+  apartment/JJ
+  buildings/NNS
+  ./.
+  Then/RB
   the/DT
   video/NN
+  begins/VBZ
+  to/TO
+  rotate/VB
+  from/IN
+  images/NNS
+  of/IN
+  (GPE New/NNP York/NNP)
+  being/VBG
+  shown/VBN
+  briefly/NN
+  ,/,
+  to/TO
+  clips/NNS
+  of/IN
+  Jay-Z/NNP
+  singing/VBG
+  ``/``
+  (PERSON Empire/NNP State/NNP)
+  of/IN
+  (ORGANIZATION Mind/NNP)
+  ''/''
+  in/IN
+  several/JJ
+  locations/NNS
+  with/IN
+  different/JJ
+  outfits/NNS
+  ./.
+  Images/NNS
+  shown/VBN
+  include/VBP
+  a/DT
+  monument/NN
+  to/TO
+  (PERSON John/NNP D./NNP Rockefeller/NNP)
+  ,/,
+  Jr./NNP
+  ,/,
+  street/NN
+  signs/NNS
+  and/CC
+  stairwells/NNS
+  leading/VBG
+  to/TO
+  subway/VB
+  stations/NNS
+  ./.
+  Next/IN
+  we/PRP
+  see/VBP
+  black/JJ
+  and/CC
+  white/JJ
+  clips/NNS
+  of/IN
+  (GPE Keys/NNP)
+  ,/,
+  who/WP
+  is/VBZ
+  wearing/VBG
+  large/JJ
+  hoop-earrings/NNS
+  with/IN
+  high/JJ
+  heels/NNS
   ,/,
   a/DT
-  sign/NN
-  appears/VBZ
-  with/IN
+  black/JJ
+  shirt/NN
+  and/CC
+  pants/NNS
+  ,/,
+  playing/VBG
+  a/DT
+  (GPE Yamaha/NNP)
+  piano/NN
+  that/WDT
+  has/VBZ
+  an/DT
+  image/NN
+  of/IN
   the/DT
-  logo/NN
+  Statue/NNP
+  of/IN
+  (GPE Liberty/NNP)
+  on/IN
+  it/PRP
+  ./.
+  She/PRP
+  is/VBZ
+  singing/VBG
+  her/PRP$
+  verse/NN
   of/IN
   the/DT
   song/NN
-  's/POS
-  title/NN
-  ./.
-  The/DT
-  scene/NN
-  then/RB
-  changes/VBZ
-  a/DT
-  spacecraft/NN
-  traveling/VBG
-  past/JJ
-  Earth/NN
-  before/IN
-  the/DT
-  camera/NN
-  zooms/NN
-  in/IN
-  inside/NN
-  ./.
-  Then/RB
-  ,/,
-  the/DT
-  lights/NNS
-  came/VBD
-  on/IN
-  and/CC
-  reveal/VB
-  (PERSON Michael/NNP)
-  and/CC
-  (PERSON Janet/NNP)
-  inside/IN
-  a/DT
-  small/JJ
-  hole/NN
-  ./.
-  Suddenly/RB
-  ,/,
-  the/DT
-  spacecraft/NN
-  zooms/VBZ
-  out/RP
-  through/IN
-  the/DT
-  outer/JJ
-  part/NN
-  of/IN
-  the/DT
-  galaxy/NN
-  ,/,
-  sending/VBG
-  them/PRP
-  screaming/VBG
-  ./.
-  In/IN
-  the/DT
-  first/JJ
-  verse/NN
-  ,/,
-  (PERSON Michael/NNP)
-  is/VBZ
-  seen/VBN
-  in/IN
-  the/DT
-  room/NN
-  where/WRB
-  he/PRP
-  is/VBZ
-  floating/VBG
-  on/IN
-  gravity/NN
-  ./.
-  Then/RB
-  ,/,
-  (PERSON Michael/NNP)
-  is/VBZ
-  shown/VBN
   in/IN
   a/DT
-  room/NN
-  with/IN
-  thousands/NNS
-  of/IN
-  guitars/NNS
-  where/WRB
-  he/PRP
-  breaks/VBZ
-  one/CD
-  while/NN
-  (PERSON Janet/NNP)
-  sings/VBZ
-  the/DT
-  next/JJ
-  verse/NN
-  ./.
-  Then/RB
-  ,/,
-  it/PRP
-  shows/VBZ
-  (PERSON Michael/NNP)
-  dancing/VBG
-  on/IN
-  the/DT
-  wall/NN
-  while/IN
-  (PERSON Janet/NNP)
-  looks/VBZ
+  street/NN
   at/IN
-  her/PRP$
-  nail/NN
-  before/IN
-  playing/VBG
-  a/DT
-  game/NN
-  of/IN
-  tag/NN
-  ./.
-  Then/RB
-  ,/,
-  it/PRP
-  shows/VBZ
-  (PERSON Michael/NNP)
-  and/CC
-  (PERSON Janet/NNP)
-  in/IN
-  a/DT
-  room/NN
-  where/WRB
-  they/PRP
-  are/VBP
-  using/VBG
-  a/DT
-  remote/JJ
-  control/NN
+  night/NN
+  while/IN
+  cars/NNS
+  drive/JJ
   by/IN
-  changing/VBG
-  pictures/NNS
-  of/IN
-  (GPE Gregory/NNP Peck/NNP)
-  ,/,
-  art/RB
-  painting/NN
-  ,/,
-  statues/NNS
-  ,/,
-  etc/FW
   ./.
-  Next/JJ
-  ,/,
-  it/PRP
-  shows/VBZ
-  both/DT
-  (PERSON Michael/NNP)
-  and/CC
-  (PERSON Janet/NNP)
-  in/IN
-  the/DT
-  media/NNS
-  room/NN
-  where/WRB
-  they/PRP
-  are/VBP
-  playing/VBG
-  a/DT
-  video/NN
-  game/NN
-  which/WDT
-  (PERSON Michael/NNP)
-  wins/VBZ
-  ./.
-  Then/RB
-  ,/,
-  (PERSON Janet/NNP)
-  sports/NNS
-  a/DT
-  skimpy/JJ
-  bikini/NN
-  in/IN
-  some/DT
-  scenes/NNS
-  while/IN
-  at/IN
-  the/DT
-  core/NN
-  of/IN
-  the/DT
-  craft/NN
-  ,/,
-  grabs/NN
-  at/IN
-  her/PRP$
-  breasts/NNS
-  ,/,
-  gives/VBZ
-  the/DT
-  camera/NN
-  a/DT
-  middle/JJ
-  finger/NN
-  and/CC
-  simulates/VBZ
-  male/JJ
-  urination/NN
-  where/WRB
-  (PERSON Michael/NNP)
+  (PERSON Keys/NNP)
+  '/POS
+  performance/NN
   is/VBZ
-  shown/VBN
-  taking/VBG
-  controls/NNS
-  into/IN
-  some/DT
-  kind/NN
-  of/IN
-  Observation/NN
-  ./.
-  (/(
-  In/IN
-  the/DT
-  out-takes/NNS
-  ,/,
-  there/EX
-  is/VBZ
-  a/DT
-  still/RB
-  color/NN
-  photograph/NN
-  of/IN
-  (PERSON Michael/NNP)
-  also/RB
-  giving/VBG
-  the/DT
-  camera/NN
-  a/DT
-  middle/JJ
-  finger/NN
-  ./.
-  )/)
-  Meanwhile/RB
-  ,/,
-  (PERSON Michael/NNP)
-  is/VBZ
-  seen/VBN
-  in/IN
-  a/DT
-  white/JJ
-  room/NN
-  while/IN
-  wearing/VBG
-  a/DT
-  black/JJ
-  robe/NN
-  where/WRB
-  he/PRP
-  is/VBZ
-  playing/VBG
-  a/DT
-  (GPE Chinese/JJ)
-  person/NN
-  before/IN
-  screaming/VBG
-  which/WDT
-  breaks/VBZ
-  the/DT
-  glass/NN
-  above/IN
-  him/PRP
-  ./.
-  Then/RB
-  ,/,
-  (PERSON Michael/NNP)
-  and/CC
-  (PERSON Janet/NNP)
-  perform/VB
-  a/DT
-  dance/NN
-  breakdown/NN
-  ./.
-  Then/RB
-  ,/,
-  it/PRP
-  cuts/VBZ
-  back/RB
-  to/TO
-  the/DT
-  media/NNS
-  room/NN
-  where/WRB
-  (PERSON Janet/NNP)
-  is/VBZ
-  dancing/VBG
+  then/RB
+  intercut/JJ
   with/IN
-  (PERSON Michael/NNP)
-  being/VBG
-  seen/VBN
-  on/IN
-  the/DT
-  television/NN
-  screen/NN
-  while/IN
-  (PERSON Janet/NNP)
-  does/VBZ
-  the/DT
-  same/JJ
-  thing/NN
-  with/IN
-  (PERSON Michael/NNP)
-  ./.
-  Then/RB
-  ,/,
-  (PERSON Michael/NNP)
-  is/VBZ
-  seen/VBN
-  playing/VBG
-  a/DT
-  tennis/NN
-  game/NN
-  where/WRB
-  he/PRP
-  is/VBZ
-  using/VBG
-  a/DT
-  robotic/JJ
-  orb/NN
-  to/TO
-  break/VB
-  jars/NNS
-  ./.
-  The/DT
-  video/NN
-  has/VBZ
-  influences/NNS
+  aerial/JJ
+  views/NNS
   of/IN
-  (GPE Japanese/JJ)
-  sci-fi/JJ
-  (ORGANIZATION Anime/NNP)
-  -/:
-  several/JJ
+  skyscrapers/NNS
+  and/CC
   clips/NNS
   of/IN
   the/DT
-  (ORGANIZATION Zillion/NNP)
-  anime/NN
-  series/NN
-  and/CC
-  the/DT
-  movie/NN
-  (PERSON Akira/NNP)
-  can/MD
-  be/VB
-  seen/VBN
-  in/IN
-  the/DT
-  background/NN
-  screens/NNS
-  ./.
-  [/$
-  39/CD
-  ]/IN
-  The/DT
-  version/NN
+  (ORGANIZATION Yankee/NNP Stadium/NNP)
+  ,/,
+  clips/NNS
   of/IN
   the/DT
-  video/NN
-  included/VBD
-  on/IN
-  (PERSON Michael/NNP Jackson/NNP)
-  's/POS
-  (ORGANIZATION Vision/NNP)
-  is/VBZ
-  uncut/JJ
+  (GPE New/NNP York/NNP)
+  Police/NNP
+  ,/,
   and/CC
-  contains/VBZ
+  (ORGANIZATION NYPD/NNP)
+  cars/NNS
+  and/CC
+  logos/NN
+  ./.
+  Some/DT
+  people/NNS
+  ,/,
+  such/JJ
+  as/IN
+  ones/NNS
+  who/WP
+  are/VBP
+  walking/VBG
+  around/IN
+  (GPE New/NNP York/NNP)
+  or/CC
+  wearing/VBG
+  (ORGANIZATION Yankee/NNP)
+  emblems/NN
+  ,/,
+  have/VBP
+  their/PRP$
+  faces/VBZ
+  shown/VBN
+  or/CC
+  blurred/VBN
+  out/RP
+  ./.
+  Keys/NNS
+  and/CC
+  Jay-Z/NNP
+  ,/,
+  both/DT
+  wearing/VBG
+  sunglasses/NNS
+  at/IN
+  night/NN
+  ,/,
+  are/VBP
+  then/RB
+  shown/VBN
+  performing/VBG
   the/DT
-  ``/``
-  just/RB
-  stop/VB
-  fucking/VBG
+  song/NN
+  together/RB
+  as/IN
+  the/DT
+  video/NN
+  continues/VBZ
+  to/TO
+  be/VB
+  intercut/VBN
   with/IN
-  me/PRP
+  clips/NNS
+  of/IN
+  them/PRP
+  performing/VBG
+  ``/``
+  (PERSON Empire/NNP State/NNP)
+  of/IN
+  (ORGANIZATION Mind/NNP)
   ''/''
-  lyric/NN
+  individually/RB
   ,/,
-  which/WDT
-  was/VBD
-  censored/VBN
-  in/IN
-  HIStory/NNP
+  as/RB
+  well/RB
+  as/IN
+  images/NNS
+  of/IN
+  (GPE New/NNP York/NNP)
+  ./.
+  The/DT
+  video/NN
+  ends/VBZ
+  with/IN
+  color/NN
+  vision/NN
+  of/IN
+  the/DT
+  duo/NN
+  performing/NN
+  at/IN
+  night/NN
   on/IN
-  (GPE Film/NNP)
-  ,/,
-  (PERSON Volume/NN)
-  I/PRP)
+  the/DT
+  red/JJ
+  glass/NN
+  steps/NNS
+  forming/VBG
+  the/DT
+  roof/NN
+  of/IN
+  the/DT
+  (ORGANIZATION TKTS/NNP)
+  pavilion/NN
+  in/IN
+  (GPE Times/NNP Square/NNP)
+  ./.
+  Interspersed/VBN
+  are/VBP
+  clips/NNS
+  of/IN
+  (GPE Keys/NNP)
+  playing/VBG
+  piano/NN
+  and/CC
+  views/NNS
+  of/IN
+  the/DT
+  (GPE New/NNP York/NNP)
+  skyline/NN
+  ./.)

@@ -1,102 +1,88 @@
 (S
-  (NP \ufeffThe/JJ music/NN video/NN)
-  starts/VBZ
-  by/IN
-  showing/VBG
-  (NP shots/NNS)
-  of/IN
-  (NP life/NN)
-  in/IN
-  (NP a/DT neighborhood/NN)
-  ./.
-  (NP A/DT young/JJ African-American/JJ man/NN)
-  is/VBZ
-  seen/VBN
-  lying/VBG
-  on/IN
-  (NP the/DT ground/NN)
+  (NP The/DT video/NN)
+  features/VBZ
+  (NP the/DT band/NN)
   and/CC
-  (NP Lamar/NNP)
-  begins/VBZ
-  speaking/VBG
-  ./.
-  (NP Police/NNP and/CC destruction/NN)
-  flood/VBD
-  (NP the/DT scene/NN)
-  as/IN
-  (NP the/DT music/NN)
-  starts/VBZ
-  ,/,
-  and/CC
-  (NP Lamar/NNP)
-  begins/VBZ
-  rapping/VBG
-  (NP a/DT new/JJ verse/NN)
-  alongside/IN
-  (NP his/PRP$ Black/NNP Hippy/NNP cohorts/NNS)
+  (NP a/DT businessman/NN)
   (/(
-  (NP ScHoolboy/NNP Q/NNP)
-  ,/,
-  (NP Ab-Soul/NNP)
-  and/CC
-  (NP Jay/NNP Rock/NNP)
-  )/)
-  ,/,
-  in/IN
-  (NP a/DT car/NN)
-  carried/VBN
+  played/VBN
   by/IN
-  (NP four/CD police/NN)
-  officers.During/VBG
-  (NP the/DT video/NN)
-  ,/,
-  (NP Lamar/NNP)
-  flies/VBZ
-  through/IN
-  (NP California/NNP)
-  ,/,
-  while/IN
-  (NP his/PRP$ crew/NN)
-  is/VBZ
-  throwing/VBG
-  out/RP
-  (NP money/NN)
-  to/TO
-  (NP everybody/NN and/CC)
-  (NP dancers/NNS)
-  perform/VBP
+  (NP Keith/NNP Allen/NNP)
+  )/)
   in/IN
-  (NP the/DT streets/NNS)
-  ./.
-  At/IN
-  (NP the/DT end/NN)
-  of/IN
-  (NP the/DT music/NN video/NN)
-  ,/,
-  (NP Lamar/NNP)
-  stands/VBZ
-  on/IN
-  (NP a/DT lamppost/NN)
-  and/CC
-  (NP a/DT policeman/JJ)
-  shoots/VBZ
-  (NP him/PRP)
-  down/RP
-  ./.
-  (NP The/DT rapper/NN)
-  falls/VBZ
-  to/TO
-  (NP the/DT ground/NN)
-  finishing/VBG
-  (NP his/PRP$ monologue/NN)
-  from/IN
-  (NP the/DT beginning/NN)
-  of/IN
-  (NP the/DT video/NN)
-  ,/,
-  but/CC
-  ends/VBZ
-  (NP the/DT clip/NN)
+  (NP a/DT flat/JJ)
   with/IN
-  (NP a/DT smile/NN)
+  (NP the/DT band/NN)
+  playing/VBG
+  (NP a/DT board/NN game/NN)
+  called/VBN
+  ``/``
+  (NP Escape/NN)
+  from/IN
+  (NP the/DT Rat/NNP Race/NNP)
+  ''/''
+  before/IN
+  (NP they/PRP)
+  become/VBP
+  trapped/VBN
+  in/IN
+  (NP the/DT game/NN)
+  where/WRB
+  (NP they/PRP)
+  are/VBP
+  with/IN
+  (NP farm/NN animals/NNS)
+  and/CC
+  (NP other/JJ people/NNS)
+  before/IN
+  appearing/VBG
+  in/IN
+  (NP the/DT flat/JJ)
+  again/RB
+  ./.
+  (NP The/DT band/NN)
+  appears/VBZ
+  in/IN
+  (NP the/DT video/NN)
+  alongside/IN
+  (NP British/JJ comic/JJ actors/NNS)
+  (NP Matt/NNP Lucas/NNP and/CC)
+  (NP Sara/NNP Stockbridge/NNP and/CC model/NN Jo/NNP Guest/NNP)
+  ./.
+  (NP It/PRP)
+  features/VBZ
+  (NP pastiches/NNS)
+  of/IN
+  -/:
+  or/CC
+  (NP tributes/NNS)
+  to/TO
+  -/:
+  (NP Benny/NNP Hill/NNP)
+  (/(
+  (NP Lucas/NNP)
+  (NP '/POS doctor/NN)
+  chasing/VBG
+  scantily/RB
+  (NP clad/JJ young/JJ women/NNS)
+  culminating/VBG
+  in/IN
+  (NP the/DT entry/NN)
+  of/IN
+  (NP the/DT milk/NN van/NN)
+  of/IN
+  (NP Ernie/NNP)
+  (/(
+  (NP The/DT Fastest/NNP Milkman/NNP)
+  in/IN
+  (NP the/DT West/NNP)
+  )/)
+  )/)
+  and/CC
+  (NP Queen/NNP)
+  (NP 's/POS 1975/CD video/NN)
+  for/IN
+  ``/``
+  (NP Bohemian/JJ Rhapsody/NN)
+  ''/''
   ./.)

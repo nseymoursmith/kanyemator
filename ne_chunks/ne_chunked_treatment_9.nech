@@ -1,270 +1,405 @@
 (S
-  \ufeffThe/JJ
-  video/NN
-  begins/VBZ
-  with/IN
-  a/DT
-  monologue/NN
-  by/IN
-  fashion/NN
-  model/NN
-  (PERSON Agyness/NNP Deyn/NNP)
-  about/IN
-  love/NN
-  and/CC
-  heartbreak/NN
-  :/:
-  During/IN
+  \ufeffIn/IN
   the/DT
-  narration/NN
+  video/NN
   ,/,
-  (PERSON Rihanna/NNP)
-  and/CC
-  her/PRP$
-  lover/NN
-  are/VBP
-  depicted/VBN
-  in/IN
-  both/DT
-  love/NN
-  and/CC
-  hate/NN
-  scenarios/NNS
-  ./.
-  Before/IN
+  a/DT
+  sign/NN
+  appears/VBZ
+  with/IN
+  the/DT
+  logo/NN
+  of/IN
   the/DT
   song/NN
-  begins/VBZ
-  to/TO
-  play/VB
-  ,/,
-  lightning/VBG
-  bolts/NNS
-  are/VBP
-  projected/VBN
-  onto/IN
-  a/DT
-  wall/NN
-  in/IN
-  which/WDT
-  (PERSON Rihanna/NNP)
-  stands/VBZ
-  in/IN
-  front/NN
-  of/IN
-  ./.
-  She/PRP
-  and/CC
-  her/PRP$
-  lover/NN
-  are/VBP
-  depicted/VBN
-  as/IN
-  enamored/JJ
-  with/IN
-  each/DT
-  other/JJ
-  ,/,
-  and/CC
-  enjoying/VBG
-  activities/NNS
-  such/JJ
-  as/IN
-  fairground/NN
-  rides/NNS
-  and/CC
-  eating/VBG
-  in/IN
-  fast/JJ
-  food/NN
-  restaurants/NNS
-  ./.
-  During/IN
-  the/DT
-  chorus/NN
-  ,/,
-  images/NNS
-  of/IN
-  drugs/NNS
-  ,/,
-  pills/NNS
-  ,/,
-  and/CC
-  dilated/VBD
-  pupils/NNS
-  are/VBP
-  shown/VBN
-  ,/,
-  while/IN
-  brief/JJ
-  scenes/NNS
-  of/IN
-  (PERSON Rihanna/NNP)
-  and/CC
-  her/PRP$
-  boyfriend/NN
-  preparing/NN
-  to/TO
-  have/VB
-  sex/NN
-  are/VBP
-  shown/VBN
+  's/POS
+  title/NN
   ./.
   The/DT
-  chorus/NN
-  continues/VBZ
-  and/CC
-  the/DT
-  video/NN
-  cuts/NNS
-  to/TO
-  a/DT
   scene/NN
-  in/IN
-  which/WDT
-  (PERSON Rihanna/NNP)
-  and/CC
-  other/JJ
-  people/NNS
-  dance/NN
-  at/IN
-  an/DT
-  outside/JJ
-  rave/NN
-  ;/:
-  (PERSON Calvin/NNP Harris/NNP)
-  features/VBZ
-  as/IN
-  the/DT
-  (ORGANIZATION DJ/NNP)
-  ./.
-  As/IN
-  the/DT
-  second/JJ
-  chorus/NN
-  begins/VBZ
-  ,/,
-  (PERSON Rihanna/NNP)
-  and/CC
-  her/PRP$
-  boyfriend/NN
-  are/VBP
-  happily/RB
-  running/VBG
-  amok/NN
-  in/IN
-  a/DT
-  supermarket/NN
-  ,/,
-  pushing/VBG
-  each/DT
-  other/JJ
-  in/IN
-  a/DT
-  shopping/NN
-  cart/NN
-  and/CC
-  spraying/NN
-  canned/JJ
-  drinks/NNS
-  at/IN
-  each/DT
-  other/JJ
-  ./.
-  However/RB
-  ,/,
-  they/PRP
-  begin/VBP
-  arguing/VBG
-  in/IN
-  a/DT
-  car/NN
-  ./.
-  The/DT
-  video/NN
   then/RB
-  shows/VBZ
+  changes/VBZ
+  a/DT
+  spacecraft/NN
+  traveling/VBG
+  past/JJ
+  Earth/NN
+  before/IN
   the/DT
-  couple/NN
-  experiencing/VBG
-  mounting/VBG
-  difficulties/NNS
+  camera/NN
+  zooms/NN
   in/IN
-  their/PRP$
-  relationship/NN
+  inside/NN
   ./.
-  They/PRP
-  eventually/RB
-  begin/VBP
-  to/TO
-  physically/RB
-  abuse/VB
-  one/CD
-  another/DT
-  ./.
-  During/IN
-  the/DT
-  final/JJ
-  chorus/NN
+  Then/RB
   ,/,
-  (PERSON Rihanna/NNP)
-  is/VBZ
-  seen/VBN
-  vomiting/VBG
-  streamers/NNS
-  ;/:
-  she/PRP
-  is/VBZ
-  also/RB
-  seen/VBN
-  unconscious/JJ
+  the/DT
+  lights/NNS
+  came/VBD
   on/IN
-  the/DT
-  street/NN
-  while/IN
-  her/PRP$
-  boyfriend/NN
-  tries/NNS
-  to/TO
-  revive/VB
-  her/PRP
-  ./.
-  After/IN
-  having/VBG
-  had/VBD
-  enough/NN
-  of/IN
-  the/DT
-  relationship/NN
-  ,/,
   and/CC
-  finding/VBG
-  him/PRP
-  unconscious/JJ
-  on/IN
-  the/DT
-  floor/NN
-  of/IN
-  his/PRP$
-  apartment/NN
-  ,/,
-  (PERSON Rihanna/NNP)
-  leaves/VBZ
-  him/PRP
+  reveal/VB
+  (PERSON Michael/NNP)
+  and/CC
+  (PERSON Janet/NNP)
+  inside/IN
+  a/DT
+  small/JJ
+  hole/NN
   ./.
-  The/DT
-  video/NN
-  ends/VBZ
-  with/IN
-  (PERSON Rihanna/NNP)
-  curled/VBD
-  up/RP
+  Suddenly/RB
+  ,/,
+  the/DT
+  spacecraft/NN
+  zooms/VBZ
+  out/RP
+  through/IN
+  the/DT
+  outer/JJ
+  part/NN
+  of/IN
+  the/DT
+  galaxy/NN
+  ,/,
+  sending/VBG
+  them/PRP
+  screaming/VBG
+  ./.
+  In/IN
+  the/DT
+  first/JJ
+  verse/NN
+  ,/,
+  (PERSON Michael/NNP)
+  is/VBZ
+  seen/VBN
   in/IN
   the/DT
-  corner/NN
-  of/IN
+  room/NN
+  where/WRB
+  he/PRP
+  is/VBZ
+  floating/VBG
+  on/IN
+  gravity/NN
+  ./.
+  Then/RB
+  ,/,
+  (PERSON Michael/NNP)
+  is/VBZ
+  shown/VBN
+  in/IN
   a/DT
   room/NN
+  with/IN
+  thousands/NNS
+  of/IN
+  guitars/NNS
+  where/WRB
+  he/PRP
+  breaks/VBZ
+  one/CD
+  while/NN
+  (PERSON Janet/NNP)
+  sings/VBZ
+  the/DT
+  next/JJ
+  verse/NN
+  ./.
+  Then/RB
   ,/,
-  crying/VBG
-  ./.)
+  it/PRP
+  shows/VBZ
+  (PERSON Michael/NNP)
+  dancing/VBG
+  on/IN
+  the/DT
+  wall/NN
+  while/IN
+  (PERSON Janet/NNP)
+  looks/VBZ
+  at/IN
+  her/PRP$
+  nail/NN
+  before/IN
+  playing/VBG
+  a/DT
+  game/NN
+  of/IN
+  tag/NN
+  ./.
+  Then/RB
+  ,/,
+  it/PRP
+  shows/VBZ
+  (PERSON Michael/NNP)
+  and/CC
+  (PERSON Janet/NNP)
+  in/IN
+  a/DT
+  room/NN
+  where/WRB
+  they/PRP
+  are/VBP
+  using/VBG
+  a/DT
+  remote/JJ
+  control/NN
+  by/IN
+  changing/VBG
+  pictures/NNS
+  of/IN
+  (GPE Gregory/NNP Peck/NNP)
+  ,/,
+  art/RB
+  painting/NN
+  ,/,
+  statues/NNS
+  ,/,
+  etc/FW
+  ./.
+  Next/JJ
+  ,/,
+  it/PRP
+  shows/VBZ
+  both/DT
+  (PERSON Michael/NNP)
+  and/CC
+  (PERSON Janet/NNP)
+  in/IN
+  the/DT
+  media/NNS
+  room/NN
+  where/WRB
+  they/PRP
+  are/VBP
+  playing/VBG
+  a/DT
+  video/NN
+  game/NN
+  which/WDT
+  (PERSON Michael/NNP)
+  wins/VBZ
+  ./.
+  Then/RB
+  ,/,
+  (PERSON Janet/NNP)
+  sports/NNS
+  a/DT
+  skimpy/JJ
+  bikini/NN
+  in/IN
+  some/DT
+  scenes/NNS
+  while/IN
+  at/IN
+  the/DT
+  core/NN
+  of/IN
+  the/DT
+  craft/NN
+  ,/,
+  grabs/NN
+  at/IN
+  her/PRP$
+  breasts/NNS
+  ,/,
+  gives/VBZ
+  the/DT
+  camera/NN
+  a/DT
+  middle/JJ
+  finger/NN
+  and/CC
+  simulates/VBZ
+  male/JJ
+  urination/NN
+  where/WRB
+  (PERSON Michael/NNP)
+  is/VBZ
+  shown/VBN
+  taking/VBG
+  controls/NNS
+  into/IN
+  some/DT
+  kind/NN
+  of/IN
+  Observation/NN
+  ./.
+  (/(
+  In/IN
+  the/DT
+  out-takes/NNS
+  ,/,
+  there/EX
+  is/VBZ
+  a/DT
+  still/RB
+  color/NN
+  photograph/NN
+  of/IN
+  (PERSON Michael/NNP)
+  also/RB
+  giving/VBG
+  the/DT
+  camera/NN
+  a/DT
+  middle/JJ
+  finger/NN
+  ./.
+  )/)
+  Meanwhile/RB
+  ,/,
+  (PERSON Michael/NNP)
+  is/VBZ
+  seen/VBN
+  in/IN
+  a/DT
+  white/JJ
+  room/NN
+  while/IN
+  wearing/VBG
+  a/DT
+  black/JJ
+  robe/NN
+  where/WRB
+  he/PRP
+  is/VBZ
+  playing/VBG
+  a/DT
+  (GPE Chinese/JJ)
+  person/NN
+  before/IN
+  screaming/VBG
+  which/WDT
+  breaks/VBZ
+  the/DT
+  glass/NN
+  above/IN
+  him/PRP
+  ./.
+  Then/RB
+  ,/,
+  (PERSON Michael/NNP)
+  and/CC
+  (PERSON Janet/NNP)
+  perform/VB
+  a/DT
+  dance/NN
+  breakdown/NN
+  ./.
+  Then/RB
+  ,/,
+  it/PRP
+  cuts/VBZ
+  back/RB
+  to/TO
+  the/DT
+  media/NNS
+  room/NN
+  where/WRB
+  (PERSON Janet/NNP)
+  is/VBZ
+  dancing/VBG
+  with/IN
+  (PERSON Michael/NNP)
+  being/VBG
+  seen/VBN
+  on/IN
+  the/DT
+  television/NN
+  screen/NN
+  while/IN
+  (PERSON Janet/NNP)
+  does/VBZ
+  the/DT
+  same/JJ
+  thing/NN
+  with/IN
+  (PERSON Michael/NNP)
+  ./.
+  Then/RB
+  ,/,
+  (PERSON Michael/NNP)
+  is/VBZ
+  seen/VBN
+  playing/VBG
+  a/DT
+  tennis/NN
+  game/NN
+  where/WRB
+  he/PRP
+  is/VBZ
+  using/VBG
+  a/DT
+  robotic/JJ
+  orb/NN
+  to/TO
+  break/VB
+  jars/NNS
+  ./.
+  The/DT
+  video/NN
+  has/VBZ
+  influences/NNS
+  of/IN
+  (GPE Japanese/JJ)
+  sci-fi/JJ
+  (ORGANIZATION Anime/NNP)
+  -/:
+  several/JJ
+  clips/NNS
+  of/IN
+  the/DT
+  (ORGANIZATION Zillion/NNP)
+  anime/NN
+  series/NN
+  and/CC
+  the/DT
+  movie/NN
+  (PERSON Akira/NNP)
+  can/MD
+  be/VB
+  seen/VBN
+  in/IN
+  the/DT
+  background/NN
+  screens/NNS
+  ./.
+  [/$
+  39/CD
+  ]/IN
+  The/DT
+  version/NN
+  of/IN
+  the/DT
+  video/NN
+  included/VBD
+  on/IN
+  (PERSON Michael/NNP Jackson/NNP)
+  's/POS
+  (ORGANIZATION Vision/NNP)
+  is/VBZ
+  uncut/JJ
+  and/CC
+  contains/VBZ
+  the/DT
+  ``/``
+  just/RB
+  stop/VB
+  fucking/VBG
+  with/IN
+  me/PRP
+  ''/''
+  lyric/NN
+  ,/,
+  which/WDT
+  was/VBD
+  censored/VBN
+  in/IN
+  HIStory/NNP
+  on/IN
+  (GPE Film/NNP)
+  ,/,
+  (PERSON Volume/NN)
+  I/PRP)
