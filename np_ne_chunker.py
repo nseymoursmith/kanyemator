@@ -66,9 +66,9 @@ nounish = ["NN", "NNP", "NNPS", "NNS", "PRP", "PRP$"]
 NP_tags = ["B-NP", "I-NP"]
 named_entities = ["PERSON", "LOCATION", "DATE", "TIME", "ORGANIZATION", "MONEY", "PERCENT", "FACILITY", "GPE"]
 train_sents = conll2000.chunked_sents('train.txt', chunk_types=['NP'])
-print "before chunker"
+print "Starting chunker training"
 chunker = ConsecutiveNPChunker(train_sents)
-print "after chunker"
+print "Finished chunker training"
 BOM = re.compile('\ufeff')
 filelist = glob.glob("./treatments/*.txt")
 for (n, txtfile) in enumerate(filelist):
